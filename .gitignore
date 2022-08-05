@@ -1,0 +1,13 @@
+######################################
+# 
+# Ignore .txt files in this folder 
+\*.csv
+#
+# Ignore .xml files in this folder and all its sub-folders
+*.xml
+#
+# Ignore all files in the Temp sub-folder
+\Temp
+#
+# Do not ignore .dll files in this folder nor in any of its sub-folders
+!*.dll
