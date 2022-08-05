@@ -7,7 +7,8 @@
 *.xml
 #
 # Ignore all files in the Temp sub-folder
-\Temp
+\data
+\codigosAula
 #
 # Do not ignore .dll files in this folder nor in any of its sub-folders
 !*.dll
