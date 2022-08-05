@@ -9,6 +9,7 @@
 # Ignore all files in the Temp sub-folder
 \data
 \codigosAula
+\.ipynb_checkpoints
 #
 # Do not ignore .dll files in this folder nor in any of its sub-folders
 !*.dll
