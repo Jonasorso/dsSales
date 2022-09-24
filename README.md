@@ -6,15 +6,23 @@ The data comes from the competition of Kaggle Rossmann Sales (https://www.kaggle
 
 # method
 The adopted methodology goes through the following steps:
+
 1 - DATA DESCRIPTION
 
 2 - FEATURE ENGINEERING
 
 3 - FILTERING OF VARIABLES
+
 4 - EXPLORATORY DATA ANALYSIS
+
 5 - DATA PREPARATION
+
 6 - FEATURE SELECTION
+
 7 - MACHINE LEARNING MODELING
+
 8 - HYPERPARAMETER FINE TUNING
+
 9 - TRANSLATION AND INTERPRETATION OF THE ERROR
+
 10 - DEPLOY MODEL TO PRODUCTION
